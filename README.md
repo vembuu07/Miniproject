@@ -50,6 +50,7 @@ Additional Dependencies: Streamlit, Pandas, NumPy, Matplotlib
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
+<img width="1536" height="1024" alt="268ea6dd-1a1f-46e6-8729-546070018c6d" src="https://github.com/user-attachments/assets/c7f768a0-a755-4649-8abf-6012cefff5ac" />
 
 
 
@@ -58,7 +59,8 @@ Additional Dependencies: Streamlit, Pandas, NumPy, Matplotlib
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 -Home Page
 
-<img width="1536" height="1024" alt="268ea6dd-1a1f-46e6-8729-546070018c6d" src="https://github.com/user-attachments/assets/645373ed-e7e4-448d-8681-d165478d6730" />
+<img width="1536" height="1024" alt="70df97a4-b0b6-4039-8fbd-180153b84cec" src="https://github.com/user-attachments/assets/c3894d66-b361-488e-8178-521d1fb215b6" />
+
 
 
 #### Output2 - Expense Analysis and Visualization
