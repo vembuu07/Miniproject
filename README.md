@@ -1,59 +1,88 @@
 ## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+Budget Flow – A Web-Based Personal Budget Management System
+
+A brief description of the project:
+Budget Flow is a web-based personal finance management system designed to help users track income and expenses, analyze spending patterns, and maintain effective budget control through a simple and user-friendly interface.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+<!-- Detailed Description about the project -->
+
+Budget Flow is a personal budget management application developed to simplify the process of tracking financial transactions and analyzing spending behavior. Traditional budgeting methods such as manual bookkeeping or spreadsheets are often time-consuming and error-prone. This project aims to overcome these challenges by providing an automated and structured platform for managing personal finances.
+
+The system allows users to record income and expenses, categorize transactions, and generate real-time summaries and visual reports. By offering clear insights into spending habits, Budget Flow helps users make informed financial decisions and encourages disciplined budgeting. The application is suitable for students, working professionals, and individuals seeking better control over their finances.
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+<!-- List the features of the project -->
+
+Web-based personal budget management system
+
+Automated income and expense tracking
+
+Expense categorization (food, travel, rent, etc.)
+
+Real-time budget summary and balance calculation
+
+Data visualization using charts and reports
+
+User-friendly and responsive interface
+
+High scalability and low time complexity
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+<!-- List the requirements of the project -->
+
+Operating System: Windows 10/11 or Ubuntu (64-bit)
+
+Development Environment: Python 3.8 or later
+
+Web Framework: Streamlit for web application development
+
+Data Handling Libraries: Pandas, NumPy
+
+Visualization Libraries: Matplotlib
+
+Version Control: Git for source code management
+
+IDE: Visual Studio Code
+
+Additional Dependencies: Streamlit, Pandas, NumPy, Matplotlib
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 -Home Page
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="1536" height="1024" alt="268ea6dd-1a1f-46e6-8729-546070018c6d" src="https://github.com/user-attachments/assets/645373ed-e7e4-448d-8681-d165478d6730" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+
+#### Output2 - Expense Analysis and Visualization
+<img width="1536" height="1024" alt="e3045562-c002-40f3-b20e-d428918c11dd" src="https://github.com/user-attachments/assets/ee8c940b-82b5-42a6-b98d-1a0226b3e8fc" />
+
 
 Detection Accuracy: 96.7%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+<!-- Results and impact -->
 
+The Budget Flow system improves personal financial awareness by providing real-time insights into income and expenses. It reduces manual effort, minimizes calculation errors, and enables users to identify overspending patterns effectively. By visualizing financial data clearly, the system supports better decision-making and long-term financial planning.
+
+This project demonstrates the practical application of web technologies and data analysis in personal finance management. It serves as a foundation for future enhancements such as mobile app integration, AI-based expense prediction, and bank API connectivity, contributing to smarter and more efficient financial management solutions.
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.R. Sharma and A. Verma, “A web-based personal budget management system,” International Journal of Computer Applications, 2019.
 
+2.S. Kumar and P. Gupta, “Design and implementation of an expense tracking system,” IEEE International Conference on Computing Technologies, 2020.
+
+3.Y. Ma and Y. Zhang, “Web-based financial data analysis systems: A review,” Journal of Information Systems, 2021.
 
 
 
